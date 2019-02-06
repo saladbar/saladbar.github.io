@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>판교 개발자 라이프</title>
+  
+  <subtitle>판교 개발자의 이런 저런 이야기</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-06T14:12:12.820Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>saladdbar</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>github blog start</title>
+    <link href="http://yoursite.com/2019/01/30/gihhub-blog-start/"/>
+    <id>http://yoursite.com/2019/01/30/gihhub-blog-start/</id>
+    <published>2019-01-29T15:31:28.000Z</published>
+    <updated>2019-02-06T14:12:12.820Z</updated>
+    
+    <content type="html"><![CDATA[<p>우연히 구글 검색을 하다가 github page 기반의 blog 생성에 대하여 관심이 생겼다.<br><a href="https://hexo.io/ko/index.html" rel="external nofollow noopener noreferrer" target="_blank">https://hexo.io/ko/index.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;우연히 구글 검색을 하다가 github page 기반의 blog 생성에 대하여 관심이 생겼다.&lt;br&gt;&lt;a href=&quot;https://hexo.io/ko/index.html&quot; rel=&quot;external nofollow noopener noreferre
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
