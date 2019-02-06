@@ -5,7 +5,7 @@
   <channel>
     <title>판교 개발자 라이프</title>
     <link>http://yoursite.com/</link>
-    <atom:link href="/atom.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Wed, 06 Feb 2019 14:12:12 GMT</pubDate>
